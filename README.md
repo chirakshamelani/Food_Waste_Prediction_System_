@@ -19,7 +19,7 @@ The project uses **Random Forest** as the primary machine learning algorithm, al
 ---
 
 ## Technologies Used
-- Python 3.x
+- Python 
 - Streamlit (Web Interface)
 - Pandas, NumPy (Data handling)
 - Scikit-learn (Machine Learning)
@@ -40,8 +40,6 @@ Future Enhancements
 
 Add real-time data input for restaurants.
 
-Include advanced ML models (XGBoost, LightGBM).
-
 Integrate alerts and notifications for excessive waste.
 
-Expand dataset with regional and seasonal variations.
+
