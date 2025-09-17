@@ -13,7 +13,6 @@ The project uses **Random Forest** as the primary machine learning algorithm, al
   - Meals served
   - Staff experience
   - Inventory and ingredients
-- Compare different machine learning models (Random Forest, Decision Tree, ANN)
 - Display predicted waste with visualizations
 - User-friendly web interface built with **Streamlit**
 
